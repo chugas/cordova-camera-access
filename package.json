@@ -5,12 +5,13 @@
   "cordova": {
     "id": "com.antOnFire.camera-access",
     "platforms": [
+      "android",
       "ios"
     ]
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/chugas/cordova-filechooser"
+    "url": "https://github.com/chugas/cordova-camera-access"
   },
   "keywords": [
     "ecosystem:cordova",
