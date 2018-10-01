@@ -1,9 +1,9 @@
 {
-  "name": "com.antOnFire.camera-access",
+  "name": "com.chugas.camera-access",
   "version": "0.0.1",
   "description": "Ios camera access.",
   "cordova": {
-    "id": "com.antOnFire.camera-access",
+    "id": "com.chugas.camera-access",
     "platforms": [
       "android",
       "ios"
