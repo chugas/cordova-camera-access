@@ -1,4 +1,32 @@
 {
-   "name": "com.antOnFire.camera-access",
-   "version": "0.0.1"
+  "name": "com.antOnFire.camera-access",
+  "version": "0.0.1",
+  "description": "Ios camera access.",
+  "cordova": {
+    "id": "com.antOnFire.camera-access",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chugas/cordova-filechooser"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "camera",
+    "access"
+  ],
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=2.8.0"
+    }
+  ],
+  "author": "Anthony",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/antonfire/cordova-camera-access/issues"
+  },
+  "homepage": "https://github.com/antonfire/cordova-camera-access"
 }
